@@ -1,0 +1,10 @@
+Nguyễn Văn Quốc Khánh - 22810310287
+E:
+cd E:\CNPM\LT Mobile\my-app
+npm install nativewind
+npm install react-native-vector-icons
+npm install @react-navigation/native
+npm install @react-navigation/stack
+npm install react-native-screens react-native-safe-area-context react-native-gesture-handler react-native-reanimated react-native-vector-icons
+expo install react-native-gesture-handler react-native-reanimated
+npm install react-is
